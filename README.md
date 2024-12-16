@@ -21,4 +21,4 @@ RDAGO.sh - Script to perform RDA analyses
 raincloud plot.sh - Script to Map Genomic Offsets raincloud plot
 genetic load.sh -  Scripts to estimate the relative proportion of homozygous and heterozygous derived alleles for LoF, deleterious, tolerated and synonymous sites per individual
 # 6.seed zones
-seed zone.sh - Script to defined seed zone , future migration trends, number of samples per seed zone
+seed zone.sh - Script to defined seed zone , future migration trends, number of optimal samples per seed zone
